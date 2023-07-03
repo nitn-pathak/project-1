@@ -1,0 +1,89 @@
+
+@media screen and (max-width:640px) {
+    
+.title{
+    font-size:16px;
+    flex-wrap: wrap;
+     margin-bottom:250px;
+    }
+    .about{
+
+        display: flex;
+        flex-direction: column; 
+         margin-bottom: 4rem;
+
+        }
+
+        .waw{
+
+
+        display: flex;
+        flex-direction: column; 
+         margin-bottom: 4rem;            
+        }
+
+        .brands{
+
+        display: flex;
+        flex-direction: column; 
+         margin-bottom: 4rem;
+        
+        }
+
+        .ecorp{
+
+             visibility: hidden;
+    
+        }
+
+        .nav{
+
+            // width: 100%;
+            // overflow-y: hidden;
+        }
+
+
+        .home{
+
+        overflow-x: hidden;
+
+        }
+
+
+        .contact{
+ 
+             flex-direction: column;
+        }
+
+
+        .about-description{
+        
+            text-align: start;
+            margin-left: 7rem;
+            margin-right: 7rem;
+            
+          }
+
+          .waw-description{
+            text-align: start;
+            margin-left: 7rem;
+            margin-right: 7rem;
+          }
+
+
+          .img1{
+
+            height: 100%;
+
+             }
+
+
+
+          .img2{
+
+            height: 100%;
+
+             }
+             
+
+}
